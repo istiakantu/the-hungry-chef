@@ -1,0 +1,31 @@
+.home-page-banner{
+    background-image: url('./assets/pexels-yente-van-eynde-2403392.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menu-img{
+    height: 150px;
+    width: 150px;
+}
+.deal-img{
+    height: 400px;
+}
+.card-img{
+    height: 400px;
+}
+.chef-detail-img{
+    height: 600px;
+}
+.chef-bio{
+    background-color: rgba(52, 188, 198, 0.598);
+}
+.header-img{
+    height: 45px;
+    width: 45px;
+}
+.header-logo{
+    height: 110px;
+}
+.footer-logo{
+    height: 350px;
+}
